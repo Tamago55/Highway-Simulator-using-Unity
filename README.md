@@ -4,19 +4,20 @@
 
 Please see [the presentation slides](Automotive_Highway_Traffic_Simulator.pdf) or the video (Click it!!)
 
-<a href="https://www.youtube.com/watch?v=Lv8UOpgxc_8" target="_blank" rel="noopener noreferrer"><img src="https://www.youtube.com/watch?v=Lv8UOpgxc_8/hqdefault.jpg" alt="Watch the video" style="max-width:100%;"></a>
+[![Watch the video](https://img.youtube.com/vi/Lv8UOpgxc_8/hqdefault.jpg)](https://www.youtube.com/watch?v=Lv8UOpgxc_8)
+
 
 ## About this program
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Introduction.png" width="30%" alt="Introduction">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Introduction.png" width="50%" alt="Introduction">
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Modification.png" width="30%" alt="Modification">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Modification.png" width="50%" alt="Modification">
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work0.png" width="30%" alt="work0">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work0.png" width="50%" alt="work0">
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work1.png" width="30%" alt="work1">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work1.png" width="50%" alt="work1">
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work2.png" width="30%" alt="work2">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work2.png" width="50%" alt="work2">
 
 
 ## Folder Structure
