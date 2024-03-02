@@ -9,7 +9,7 @@ Please see [the presentation slides](Automotive_Highway_Traffic_Simulator.pdf) o
 
 ## About this program
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work2.png" width="80%" alt="Introduction">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Introduction.png" width="80%" alt="Introduction">
 
 <img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Modification.png" width="80%" alt="Modification">
 
@@ -17,7 +17,7 @@ Please see [the presentation slides](Automotive_Highway_Traffic_Simulator.pdf) o
 
 <img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work1.png" width="80%" alt="work1">
 
-<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/Introduction.png" width="80%" alt="work2">
+<img src="https://raw.githubusercontent.com/Tamago55/Highway-Simulator-using-Unity/main/pic/work2.png" width="80%" alt="work2">
 
 
 ## Folder Structure
